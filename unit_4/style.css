@@ -1,0 +1,25 @@
+style.css
+body {
+	background: #ffff00;
+	background-color: #00ffff;
+}
+h1 {
+	font-size: 27px;
+	font-weight: 700;
+	font-family: 'Slabo 27px', serif;
+}
+p {
+	font-style: normal;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+ul {text-align: center;}
+li {
+	font-size: 12px;
+}
+img {background-color: }
+#slogan {
+	font-style: italic;
+}
+
+
