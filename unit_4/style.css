@@ -1,4 +1,4 @@
-style.css
+
 body {
 	background: #ffff00;
 	background-color: #00ffff;
@@ -13,11 +13,16 @@ p {
 	text-align: center;
 	font-family: 'Roboto Condensed', sans-serif;
 }
-ul {text-align: center;}
+ul {text-align: center;
+	width: 100px;
+	margin: auto;
+}
+
 li {
 	font-size: 12px;
 }
-img {background-color: }
+img {width: 100%;
+}
 #slogan {
 	font-style: italic;
 }
