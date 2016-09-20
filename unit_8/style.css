@@ -1,0 +1,96 @@
+style.css
+
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	background: #ffff00;
+	background-color: #00ffff;
+	color:#222;
+	font-style: normal;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:16px;
+}
+header {
+	background-color: #FFED74;
+}
+
+nav {
+	border: 1px black solid;
+	padding: 20px;
+}
+
+p {
+	font-style: normal;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display; block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+div {
+	border: 1px black solid;
+	padding: 20px;
+}
+
+ul {
+	text-align: center;
+	width: 100px;
+	margin: auto;
+}
+
+li {
+	font-size: 12px;
+}
+img {width: 100%;
+}
+img {width: 400px;}
+#slogan {
+	font-style: italic;
+}
